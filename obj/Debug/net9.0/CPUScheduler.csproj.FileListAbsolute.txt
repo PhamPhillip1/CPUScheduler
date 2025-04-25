@@ -1,0 +1,29 @@
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/bin/Debug/net9.0/CPUScheduler
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/bin/Debug/net9.0/CPUScheduler.deps.json
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/bin/Debug/net9.0/CPUScheduler.runtimeconfig.json
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/bin/Debug/net9.0/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/bin/Debug/net9.0/CPUScheduler.pdb
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.AssemblyInfoInputs.cache
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.AssemblyInfo.cs
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.csproj.CoreCompileInputs.cache
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.sourcelink.json
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/refint/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.pdb
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/CPUScheduler.genruntimeconfig.cache
+/Users/phillippham/Desktop/Operating Systems/CPUScheduler/obj/Debug/net9.0/ref/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/bin/Debug/net9.0/CPUScheduler
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/bin/Debug/net9.0/CPUScheduler.deps.json
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/bin/Debug/net9.0/CPUScheduler.runtimeconfig.json
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/bin/Debug/net9.0/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/bin/Debug/net9.0/CPUScheduler.pdb
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.AssemblyInfoInputs.cache
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.AssemblyInfo.cs
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.csproj.CoreCompileInputs.cache
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/refint/CPUScheduler.dll
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.pdb
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/CPUScheduler.genruntimeconfig.cache
+/Users/phillippham/Desktop/Operating Systems 2/CPUScheduler/obj/Debug/net9.0/ref/CPUScheduler.dll
